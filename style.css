@@ -1,0 +1,37 @@
+body {
+    background-color: burlywood;
+    font-family: 'Garamond', serif;
+}
+.buydonuts{
+    float:left; width:33%;
+}
+
+.donutbuttons {
+    margin: 5px 10px 5px 0px;
+}
+.gotocheckout {
+    margin-top: 50px;
+}
+gotoshopping {
+    margin-top: 50px;
+}
+
+.infoFilled {
+    font-weight: bold;
+    line-height: 50%;
+}
+.infoLJ {
+    font-weight: bold;
+    line-height: 50%;
+}
+.infoFrosted {
+    font-weight: bold;
+    line-height: 50%;
+}
+.feedbackText {
+    padding-top: 10px;
+    font-weight: bold;
+}
+.checkoutTest {
+    font-weight: bold;
+}
